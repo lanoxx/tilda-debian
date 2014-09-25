@@ -1,3 +1,28 @@
+tilda (1.2~rc1-1) unstable; urgency=low
+    * Added light and dark solarized schemes
+    * Custom color selection improved
+    * New option to set the maximum tab title length
+    * The fullscreen hotkey is now configurable in the
+      preferences.
+    * Its now possible to open the context menu with the context-menu
+      button on the keyboard if such a key is present. This provides
+      improved usability for people with disabilities.
+    * Tabs can now be switches using the mouse history buttons.
+    * There is a new unlimited scrollback option.
+    * Some improvements for different window managers were made.
+    * Tilda can no be focuses with the hotkey instead of hiding it
+      when it is currently not focused. This new behavior is configurable.
+    * A locking issue has been fixed if multiple tilda instances were started
+      at the same time, which caused a race condition to appear and could
+      delete the configuration file.
+    * There is a new option to hide the tab bar and the border when multiple
+      tabs are open.
+    * When a new tab is opened the tab will now inherit its working directory
+      from the old tab. This behavior is active by default and can only be
+      disabled from an option in the config file.
+
+ -- Sebastian Geiger <lanoxx@gmx.net>  Thu, 25 Sep 2014 16:08:00 +0100
+
 tilda (1.1.13-1) unstable; urgency=low
   * Fixed a focus stealing issue that
     causes the tilda window to become active
