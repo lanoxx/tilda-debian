@@ -1,9 +1,9 @@
-tilda (1.2.1) unstable; urgency=low
+tilda (1.2.1-1) unstable; urgency=low
     * Fixed problems with the packaging
 
  -- Sebastian Geiger <lanoxx@gmx.net>  Thu, 16 Oct 2014 17:28:00 +0100
 
-tilda (1.2.0) unstable; urgency=low
+tilda (1.2.0-1) unstable; urgency=low
     * Fixed an issue in the background option
 
  -- Sebastian Geiger <lanoxx@gmx.net>  Wed, 15 Oct 2014 21:12:00 +0100
