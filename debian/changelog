@@ -1,8 +1,8 @@
-tilda (1.2.1-1) unstable; urgency=low
+tilda (1.2.2-1) unstable; urgency=low
   * New packaging version 3.9.6
   * Add debian/tilda.docs
 
- -- Sebastian Geiger <lanoxx@gmx.net>  Wed, 22 Oct 2014 12:55:00 +0100
+ -- Sebastian Geiger <lanoxx@gmx.net>  Tue, 28 Oct 2014 12:35:00 +0100
 
 tilda (1.1.12-1) unstable; urgency=low
   * Fixed an issue where the
