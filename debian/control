@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf, autopoint, pkg-co
 Standards-Version: 3.9.6
 Homepage: http://github.com/lanoxx/tilda
 Vcs-Git: git://github.com/lanoxx/tilda.git
-Vcs-Browser: https://github.com/lanoxx/tilda/tree/tilda-debian-1-1
+Vcs-Browser: https://github.com/lanoxx/tilda
 
 Package: tilda
 Architecture: any
