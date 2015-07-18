@@ -1,9 +1,10 @@
-tilda (1.2.3-1) unstable; urgency=low
+tilda (1.2.4-1) unstable; urgency=low
+
   * Corrected the VCS-Browser field to point to the correct location of
     the tilda source
   * Packaged new upstream version
 
- -- Sebastian Geiger <lanoxx@gmx.net>  Sat, 20 Jun 2015 21:14:00 +0100
+ -- Sebastian Geiger <lanoxx@gmx.net>  Fri, 17 Jul 2015 08:29:35 +0300  
 
 tilda (1.2.2-1) unstable; urgency=low
   * New packaging version 3.9.6
