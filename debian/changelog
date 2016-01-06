@@ -6,7 +6,7 @@ tilda (1.3.1-1) unstable; urgency=low
 tilda (1.3.0-1) unstable; urgency=low
 
   * Rephrased the description in the control file
-  * Packaged new upstream version
+  * Packaged new upstream version. (Closes: #788023)
 
  -- Sebastian Geiger <lanoxx@gmx.net>  Tue, 17 Nov 2015 21:25:00 +0100
 
