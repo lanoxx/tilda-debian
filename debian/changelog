@@ -1,3 +1,8 @@
+tilda (1.4.0-1) unstable; urgency=low
+  * Packaged new upstream version
+
+ -- Sebastian Geiger <lanoxx@gmx.net>  Sat, 03 Feb 2018 13:42:00 +0100
+
 tilda (1.3.1-1) unstable; urgency=low
   * Packaged new upstream version
 
