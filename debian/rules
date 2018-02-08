@@ -2,7 +2,7 @@
 # -*- makefile -*-
 		  
 %:
-	dh $@ --parallel --with autoreconf
+	dh $@
 
 
 DEB_BUILD_MAINT_OPTIONS = hardening=+all
